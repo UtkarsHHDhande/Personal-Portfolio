@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my work as a front-end 
 
 ## 🌐 Live Demo
 
-- View the live version of my portfolio: [Click here](https://pennylioliou.netlify.app/)
+- View the live version of my portfolio: [Click here](https://personal-portfolio-utkarsh369.vercel.app/)
 
 ## 📖 Overview
 
